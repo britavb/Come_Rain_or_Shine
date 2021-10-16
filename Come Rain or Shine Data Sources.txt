@@ -1,0 +1,5 @@
+Whether Data:
+https://www.dwd.de/DE/leistungen/klimadatendeutschland/klarchivtagmonat.html
+
+Covid-19 Data:
+https://npgeo-corona-npgeo-de.hub.arcgis.com
